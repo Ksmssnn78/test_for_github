@@ -3,3 +3,7 @@ this is first time git practicing
 wish me luck!
 
 this is new line to see how things works
+
+this is a pull test from github
+lest see how things work
+wish me luck
