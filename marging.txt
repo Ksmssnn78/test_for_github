@@ -1,5 +1,8 @@
 this is another kinds of practice with marging and branching
+
+marge conflict test 2 for branches
 this is conflict test 2
+
 hope it will works without any complecations
 
 this line will conflict
