@@ -1,4 +1,8 @@
 this is another kinds of practice with marging and branching
 
 hope it will works without any complecations
+
+this line will conflict
+
 let create marge conflict
+
